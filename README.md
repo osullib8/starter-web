@@ -9,4 +9,4 @@ Added line for rebasing 1234
 Sample website with plenty of files for demos
 
 ###Copyright
-Copyruight added
+Copyright added
