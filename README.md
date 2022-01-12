@@ -2,11 +2,11 @@
 
 This repository is for showing how Git and GitHub work
 
-Added line for rebasing
+Added line for rebasing 1234
 
 ## Purpose
 
-Sample website with plenty of files for demos 12345
+Sample website with plenty of files for demos
 
 ###Copyright
 Copyruight added
